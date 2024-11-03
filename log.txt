@@ -1,0 +1,4 @@
+[2024-11-03 11:28:25] This is first log message
+[2024-11-03 11:28:25] This is the second log message
+[2024-11-03 11:28:25] This is third message
+[2024-11-03 11:28:25] This is fourth message
