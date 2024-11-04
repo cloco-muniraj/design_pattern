@@ -1,0 +1,16 @@
+{
+  "name": "cloco/design_pattern",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "factory_pattern/"
+    }
+  },
+  "authors": [
+    {
+      "name": "cloco-muniraj",
+      "email": "rajbanshi.muniraj@cloco.net"
+    }
+  ],
+  "require": {}
+}
