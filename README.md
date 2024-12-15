@@ -14,3 +14,10 @@ A singleton design pattern is a creational design pattern that ensures a class h
 2. Provides a globally accessible instance
 3. Ensures data consistency
 4. Transaction Management
+
+# Concept of Abstract Factory Design Pattern
+1. Abstract Factory: Declares an interface for creating a family of related objects.
+2. Concrete Factory: Implements the interfaces to product a family of related objects.
+3. Abstract Products: Declares interfaces for a set of related objects.
+4. Concrete Products: Implement the interfaces defined by the Abstract Products.
+5. Client: Uses the factories and products but is decoupled from their concrete implementations.
