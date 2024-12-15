@@ -30,3 +30,8 @@ A singleton design pattern is a creational design pattern that ensures a class h
 4. Product: The final object that is constructed.
 
 This pattern is particularly useful when creating objects with many optional or mandatory components.
+
+# Concepts of Prototype Design Pattern
+1. Prototype: Declares an interface for cloning itself. An existing object that serves as a template.
+2. Concrete Prototype: Implements the cloning operation.
+3. Clone: Creating new objects by duplicating the prototype rather than instantiating a new object from scratch.

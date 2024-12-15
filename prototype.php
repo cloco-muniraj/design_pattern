@@ -30,6 +30,7 @@ class Car implements Prototype
     
     public function clone(): Prototype 
     {
+//        clone: creates a shallow copy of the original object, meaning that new object is a separate instance.
         return clone $this;
     }
 }
