@@ -21,3 +21,12 @@ A singleton design pattern is a creational design pattern that ensures a class h
 3. Abstract Products: Declares interfaces for a set of related objects.
 4. Concrete Products: Implement the interfaces defined by the Abstract Products.
 5. Client: Uses the factories and products but is decoupled from their concrete implementations.
+
+
+# Concept of Builder Pattern
+1. Builder: Declares methods to create parts of a complex product.
+2. Concrete Builder: Implements the steps defined in the Builder interface and assembles the product.
+3. Director: Oversees the construction process using a builder object.
+4. Product: The final object that is constructed.
+
+This pattern is particularly useful when creating objects with many optional or mandatory components.
